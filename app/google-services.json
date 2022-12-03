@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266889644518",
+    "project_id": "minor-project-e5e07",
+    "storage_bucket": "minor-project-e5e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266889644518:android:32712dcfaacec5b5c9ae27",
+        "android_client_info": {
+          "package_name": "com.example.minor.bustrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266889644518-1pko9aja9bo163pe96qeqd3k08ncho3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minor.bustrack",
+            "certificate_hash": "24ddcbd46d916f2434fdf43ef18c9941f5a38910"
+          }
+        },
+        {
+          "client_id": "266889644518-4p9ab866jf8dbcau0e2b0mrr9pnl1mn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYFiSO-QA2TUhjOzftwdB3LdsyzeL0btU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266889644518-4p9ab866jf8dbcau0e2b0mrr9pnl1mn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
